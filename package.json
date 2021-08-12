@@ -1,0 +1,21 @@
+{
+    "name": "hyper-pinguimcriativo-theme",
+    "version": "1.0.0",
+    "main": "index.js",
+    "homepage": "",
+    "description": "Pinguim Craitivo theme for Hyper",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "hyperterm",
+        "hyper",
+        "hyper.app",
+        "hyper pinguimcriativo",
+        "hyper theme",
+        "pinguimcriativo-theme"
+    ],
+    "author": "Durval Henrique (Lavrudinho) <durvalhenriquesouza93@gmail.com>",
+    "license": "MIT"
+}
