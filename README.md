@@ -34,6 +34,8 @@ plugins: [
 ]
 ```
 
+<br>
+
 #### Activating theme
 
 After installing it, you need to activate the theme. You can do so by following these steps:
@@ -49,3 +51,9 @@ After installing it, you need to activate the theme. You can do so by following 
 
 [Durval Henrique<br>
 (Lavrudinho)](https://github.com/Lavrudin)
+
+<br>
+
+# License
+
+[MIT License](./LICENSE.md)
